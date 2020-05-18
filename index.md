@@ -21,7 +21,11 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link_text: test
+    link: "/test-page"
+  - link: "/"
+    link_text: home
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
