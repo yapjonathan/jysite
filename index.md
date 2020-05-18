@@ -18,6 +18,10 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
+- template: navigation-header
+  block: header-1
+  logo: ''
+  navigation: []
 - template: hero-banner-w-image
   block: hero-2
   headline: uBuild <br><strong>design blocks</strong>
