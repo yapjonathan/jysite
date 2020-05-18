@@ -33,7 +33,7 @@ page_sections:
   background_image: "/uploads/2018/06/21/hero-2-bg.png"
 - template: simple-header
   block: header-3
-  logo: ''
+  logo: "/uploads/2018/06/21/drone-photo.jpeg"
 - template: content-feature
   block: feature-1
   media_alignment: Left
@@ -78,6 +78,7 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
+published: false
 
 ---
 foo bar
