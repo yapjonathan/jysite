@@ -17,5 +17,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: This is a footer
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2018/06/21/blocks-split.png"
 
 ---
