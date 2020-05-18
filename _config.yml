@@ -6,7 +6,8 @@ description: This is a description of me
 baseurl: ''
 url: jonathanyap.com
 defaults:
-- scope: ''
+- scope:
+    path: ''
   values: ''
 plugins:
 - jekyll-feed
