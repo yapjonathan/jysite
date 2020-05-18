@@ -24,7 +24,7 @@ page_sections:
   content: The tool that allows you to build beautiful sites<br>all inside Forestry's
     content manager.
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
