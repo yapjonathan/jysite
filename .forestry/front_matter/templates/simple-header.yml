@@ -10,3 +10,5 @@ fields:
 - type: file
   label: Logo
   name: logo
+pages:
+- test.md
